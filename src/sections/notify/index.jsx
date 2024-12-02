@@ -142,7 +142,7 @@ export const Notify = () => {
         </form> */}
       <div className="sm:text-[24px] gap-5 text-[12px] text-gray-400 flex justify-center ">
             <span>
-              © All rights of this site belong to Xera Kar company.  Any copying is prosecuted.
+              © All rights of this site belong to Xera Kar company. Any  copying is prosecuted.
             </span>
           </div> 
           </section>
