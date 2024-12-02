@@ -9,7 +9,7 @@ export const Pricing = () => {
     <section className="container p-5 m-auto my-[10rem] space-y-10 md:space-y-20 text-white">
       {/* Header Section (outside the div with the image and button) */}
       <div className="space-y-8 text-center md:max-w-[32.563rem] m-auto">
-        <h2 className="text-3xl font-bold">Discover the Xera App</h2>
+        <h2 className="text-3xl font-bold">Discover the XeraKar App</h2>
         <p className="text-gray">
           Transform the way you work and get paid with our app. Built for
           creators, freelancers, and entrepreneurs who want to manage their
@@ -22,14 +22,14 @@ export const Pricing = () => {
         {/* Image Section */}
         <img
           src={appImage}
-          alt="Xera App"
+          alt="Xerakar App"
           className="w-[80%] md:w-auto max-w-[516px] md:absolute top-[-51px] left-[-83px]"
         />
 
         {/* Explanation and Button Section */}
         <div className=" w-full md:w-[60%] p-5 md:p-8 text-center md:text-left">
           <p className="text-lg text-gray-700">
-            With the Xera Kar App, you can:
+            With the XeraKar App, you can:
             <ul className="list-disc list-inside mt-3 text-gray-600">
               <li>Organize and track your projects efficiently.</li>
               <li>Send invoices and receive payments seamlessly.</li>
@@ -41,7 +41,7 @@ export const Pricing = () => {
           </p>
           <p className="text-lg text-gray-700 mt-4">
             Start turning your passion into a rewarding career. Whether you’re a
-            solo creator or an entrepreneur, Xera Kar App is designed to help
+            solo creator or an entrepreneur, XeraKar App is designed to help
             you grow and succeed.
           </p>
           <div className="flex !flex-row !mt-[120px] gap-4">

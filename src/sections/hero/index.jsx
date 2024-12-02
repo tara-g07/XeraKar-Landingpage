@@ -27,7 +27,7 @@ export const Hero = () => {
           As a User, <br/> You’re in 
           <span className="text-cyan-100"> Control </span>
         </motion.h1>
-        <motion.p {...framer_desc} className="text-center text-gray text-justify">
+        <motion.p {...framer_desc} className="text-center text-gray text-justify md:w-[600px]">
           You’re the expert, and now it’s time to get rewarded for it! With our
           platform, users like you can find exciting, paid opportunities that
           match your passions and skills. Whether you’re a creative, freelancer,

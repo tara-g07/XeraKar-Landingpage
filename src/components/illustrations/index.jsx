@@ -11,7 +11,7 @@ export const Logo = () => {
     style={{ objectFit: "contain" }} // Ensures the logo fits well
   />
   <span style={{ fontSize: "20px", fontWeight: "bold" , color:"white" }}>
-  Xera Kar
+  XeraKar
 </span>
 </div>
   );
