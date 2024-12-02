@@ -1,6 +1,7 @@
 import appImage from '../../assets/images/ap.png'
 import googleplay from '../../assets/images/googleplay.jpg'
 import appstore from '../../assets/images/appstore.jpg'
+
 export const Pricing = () => {
   const APKUrl = 'https://play.google.com/store/apps/details?id=host'
   const IOSUrl = 'https://apps.apple.com/us/app/expo-go/id982107779'
@@ -64,6 +65,8 @@ export const Pricing = () => {
           </div>
         </div>
       </div>
+        
     </section>
+    
   )
 }
